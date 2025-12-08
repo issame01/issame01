@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Issame Dryab</h1>
-<h3 align="center">A passionate full-stack developer from Morocco</h3>
+<h3 align="center">A passionate developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issame01&label=Profile%20views&color=0e75b6&style=flat" alt="issame01" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@issamedryab33](https://medium.com/@issamedryab33)
 
-- 💬 Ask me about **React, Django**
+- 💬 Ask me about **C/C++, Django, React**
 
 - 📫 How to reach me **issamedryab33@gmail.com**
 
