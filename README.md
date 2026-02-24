@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issame01&label=Profile%20views&color=0e75b6&style=flat" alt="issame01" /> </p>
 
-- 🔭 I’m currently working on **start-up Project**
-
-- 🌱 I’m currently learning **Next.Js, Vue and ThreeJs**
+- 🔭 I’m currently working on <a href="https://www.marent.ma">MARENT</a>
 
 - 👨‍💻 Some of my projects are available at [https://issamedryab.tech/](https://issamedryab.tech/)
 
 - 📝 I regularly write articles on [https://medium.com/@issamedryab33](https://medium.com/@issamedryab33)
 
-- 💬 Ask me about **C/C++, Django, React**
+- 💬 Ask me about **C/C++, Python, linux, Networking ...etc**
 
-- 📫 How to reach me **issamedryab33@gmail.com**
+- 📫 How to reach me **issamedryab5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
