@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.marent.ma">MARENT</a>
 
-- 👨‍💻 Some of my projects are available at [https://issamedryab.tech/](https://issamedryab.tech/)
+- 👨‍💻 Some of my projects are available at [https://issamedryab.tech/](https://issame01.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@issamedryab33](https://medium.com/@issamedryab33)
 
