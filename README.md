@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋!  WHOAMI ?</h1>
 <!-- <h3 align="center">A passionate developer and a CyberSec Guy</h3> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=issame01&label=Profile%20views&color=0e75b6&style=flat" alt="issame01" /> </p>
+
 <h3 align="center">
 Developer • Cybersecurity Guy • Linux User
 </h3>
@@ -18,7 +20,6 @@ Developer • Cybersecurity Guy • Linux User
   - Python
   - Bash
   ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=issame01&label=Profile%20views&color=0e75b6&style=flat" alt="issame01" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@issamedryab33](https://medium.com/@issamedryab33)
 
