@@ -65,7 +65,6 @@ Developer • Cybersecurity Guy • Linux User
 
 <h3>Cybersecurity Skills Growth</h3>
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mangrove.png)
 ![TryHackMe](https://raw.githubusercontent.com/issame01/issame01/main/assets/thm_badge.svg)
 
 # 🔐 Cybersecurity Journey
