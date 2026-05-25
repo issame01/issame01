@@ -70,9 +70,9 @@ Uptime  : Learning every day
   <a href="https://www.linkedin.com/in/issame-dryab/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  
-  <a href="https://github.com/issame01" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+
+  <a href="https://discord.com/users/issame_01" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="50"/>
   </a>
 </p>
 
