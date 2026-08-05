@@ -71,7 +71,7 @@ Uptime  : Learning every day
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 
-  <a href="https://discord.com/users/issame_01" target="_blank">
+  <a href="https://discord.com/users/issame001" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="50"/>
   </a>
 </p>
