@@ -188,6 +188,9 @@ Current Focus:
 
 <div align="center">
 
+
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/issame01?variant=radar&theme=dark)](https://ghfind.com/u/issame01?ref=badge)
+
 ### ⚡ "Security is not a product, it's a process."
 
 </div>
