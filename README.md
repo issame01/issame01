@@ -16,7 +16,7 @@
 Issame Dryab
 -------------------------
 OS      : Kali Linux / Arch Linux
-Role    : Developer & Cybersecurity Enthusiast
+Role    : Developer & Cybersecurity Practitioner
 Focus   : Defensive & Offensive Security & System Internals
 Shell   : /bin/bash
 Uptime  : Learning every day
