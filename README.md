@@ -50,7 +50,7 @@ Uptime  : Learning every day
 ```
 
 - 📝 I regularly write articles on:
-  - [Medium](https://medium.com/@issamedryab33)
+  - [Medium](https://medium.com/@mangrovetopic)
 
 - 💬 Ask me about:
   - **Linux**
@@ -58,9 +58,6 @@ Uptime  : Learning every day
   - **Cybersecurity**
   - **C/C++**
   - **Python**
-
-- 📫 Reach me at:
-  - **issamedryab5@gmail.com**
 
 ---
 
